@@ -96,10 +96,11 @@ The SmartCredit Loan System successfully demonstrates how Machine Learning can s
 ---
 
 ## Project Structure
-
+```text
 SmartCredit-Loan-System/
 ├── loan_approval_data.csv
 ├── SmartCredit.ipynb
 ├── README.md
 └── summary.pdf
 
+```
