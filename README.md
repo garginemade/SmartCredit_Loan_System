@@ -47,9 +47,10 @@ SmartCredit Loan System is an end-to-end Machine Learning solution that predicts
 | Naive Bayes            | 86.0%    | 81.1%     | 70.5%   | 75.4%    |
 | KNN                    | 78.5%    | 67.3%     | 57.4%   | 61.9%    |
 
-**Best Model**: 
-Best Model on the basis of Precision => Naive Bayes
-Logistic Regression (after feature engineering)
+**Best Model:** Logistic Regression (after feature engineering)
+Note:
+If we consider Precision only, Naive Bayes performs slightly better (81.1%).
+However, Logistic Regression is chosen as the overall best model because it provides a better balance between Precision, Recall, and Accuracy, which is more suitable for a loan approval system.
 
 ---
 
